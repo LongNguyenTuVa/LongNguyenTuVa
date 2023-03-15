@@ -1,11 +1,14 @@
 ![MasterHead](https://cdn.theatlantic.com/thumbor/RdpE7c2SAEjC7QjTQ3WGdVPRjXc=/0x73:2000x1115/1200x625/media/img/2020/07/WEL_Andersen_ChinaOpener/original.gif)
 <h1 align="center">Hi 👋, I'm Jake Nguyen</h1>
 <h3 align="center">A passionate AI Engineer from Vietnam</h3>
-<img align="right" alt="Coding" width="300" src="https://lifeboat.com/blog.images/computer-vision-is-solving-problems-that-werent-even-on-our-list.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=longnguyentuva&label=Profile%20views&color=0e75b6&style=flat" alt="longnguyentuva" /> </p>
 
+<img align="right" alt="Coding" width="330" src="https://lifeboat.com/blog.images/computer-vision-is-solving-problems-that-werent-even-on-our-list.gif">
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=longnguyentuva" alt="longnguyentuva" /></a> </p>
+
+
 
 - 🔭 I’m currently working on [Indurad](https://www.indurad.com/isilo3d/)
 
