@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=longnguyentuva&label=Profile%20views&color=0e75b6&style=flat" alt="longnguyentuva" /> </p>
 
-<img align="right" alt="Coding" width="300" src="https://lifeboat.com/blog.images/computer-vision-is-solving-problems-that-werent-even-on-our-list.gif">
+<img align="right" alt="Coding" width="310" src="https://lifeboat.com/blog.images/computer-vision-is-solving-problems-that-werent-even-on-our-list.gif">
 
 
 - 🔭 I’m currently working on [Indurad](https://www.indurad.com/isilo3d/)
